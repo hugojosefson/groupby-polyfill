@@ -21,6 +21,7 @@
     "node": ">=16"
   },
   "exports": {
+    ".": "./lib/polyfill.js",
     "./lib/*.js": "./lib/*.js"
   },
   "homepage": "https://github.com/jimmywarting/groupby-polyfill#readme",
