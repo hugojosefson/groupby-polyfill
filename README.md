@@ -21,5 +21,5 @@ Documentation and code example is in this links too.
 Just need to import it.
 
 ```js
-import 'groupby-polyfill/lib/polyfill.js'
+import 'groupby-polyfill'
 ```
